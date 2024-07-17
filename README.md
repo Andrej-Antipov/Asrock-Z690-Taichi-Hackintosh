@@ -2,6 +2,8 @@
 
 EFI OpenCore Folder
 
+USB ports mapping still in progress !
+
 ## Hardware configuration:
 * CPU: i5-13600kf RaptorLake (Undervolted)
 * MB: Asrock Z690 Taichi
