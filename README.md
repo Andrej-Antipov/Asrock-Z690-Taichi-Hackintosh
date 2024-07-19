@@ -8,7 +8,7 @@ EFI OpenCore Folder
 * RAM: 2x16Gb DDR5 PATRIOT VIPER VENOM 7000
 * LAN: Intel 219 1Gbit
 * LAN: Killer 3100 2,5Gbit
-* LAN: X540T2 10Gbit local net (working in PCI-e N4 port only)
+* LAN: X540T2 10Gbit local net (only works in PCI-e slot 4)
 * TB: Maple Ridge 2 type-c ports (hotplug working)
 * GPU: Radeon RX5700 Sapphire Pulse 8Gb
 * GPU: Radeon RX6800XT Asrock Taichi 16Gb
