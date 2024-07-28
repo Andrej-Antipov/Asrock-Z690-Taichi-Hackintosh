@@ -31,6 +31,7 @@ sudo pmset tcpkeepalive 0
 Sonoma+:  disable CSPNEvaluation darkwake 
 
 mkdir -p /System/Library/FeatureFlags/Domain/
+
 open /System/Library/FeatureFlags/Domain/
 
 put into this folder powerd.plist
