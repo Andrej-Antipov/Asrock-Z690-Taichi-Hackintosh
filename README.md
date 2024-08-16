@@ -19,6 +19,8 @@ EFI OpenCore Folder
 * BIOS: [v20.07 beta](https://www.asrock.com/mb/Intel/Z690%20Taichi/index.ru.asp#BIOS)
 * Display: LG 4K 60 Hz HDR via Display Port (27UK650-W)
 
+### Due to GitHub limit 25Mb kexts load separately and should be unpacked to the EFI/OC/Kexts folder !!!
+
 ### BIOS setup: 
 
 * Default and Overclocking with undervolting
